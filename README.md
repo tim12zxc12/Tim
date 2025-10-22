@@ -9,3 +9,4 @@ a = int(input("Введите а: "))
 z = int(input("Введите z: "))
 f = int(input("Введите f: "))
 s = a + z + f
+i = a - z - f
