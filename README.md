@@ -8,3 +8,4 @@ first_name = input ("Введите имя: ")
 a = int(input("Введите а: "))
 z = int(input("Введите z: "))
 f = int(input("Введите f: "))
+s = a + z + f
