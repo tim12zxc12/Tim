@@ -4,3 +4,5 @@
 print ("Программа")
 last_name = input ("Введите фамилию: ")
 first_name = input ("Введите имя: ")
+
+a = int(input("Введите а: "))
