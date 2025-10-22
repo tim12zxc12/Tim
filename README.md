@@ -11,3 +11,4 @@ f = int(input("Введите f: "))
 s = a + z + f
 i = a - z - f
 t = a**2
+print(s,i,t)
